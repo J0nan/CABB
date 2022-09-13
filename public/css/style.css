@@ -1,0 +1,55 @@
+.btn-hover:hover{
+    color: #1a1a1a;
+    background-color: #fff;
+}
+
+.btn-hover{
+    border-width: 2px;
+}
+
+.modal{
+    backdrop-filter: blur(5px);
+    margin-top: 1.75rem;
+}
+
+.btn-login{
+    color: #1a1a1a;
+    background-color: #fff;
+    border-width: 2px;
+    border-color: #fff;
+}
+
+.btn-login:hover{
+    color: #fff;
+    background-color: #919aa1;
+    border-color: #fff;
+}
+
+.btn-register{
+    color: #fff;
+    background-color: #1a1a1a;
+    border-width: 2px;
+    border-color: #fff;
+}
+
+.btn-register:hover{
+    color: #fff;
+    background-color: #919aa1;
+    border-color: #fff;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 1.5em;
+    width: 100%;
+    overflow: hidden;
+}
